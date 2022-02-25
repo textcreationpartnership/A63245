@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trincalo sainted, or, The exaltation of the Jesuits implement, and printer general, the notorious Nathaniel Thomson, on this present 5th of July, 1682 the day of his being registred among the Popish saints, for his meritorious libel, concerning the murther of Sir EB.G. and magnificently and numerously attended, to his enthroning in the pillory, for that purpose erected in the Pallace-Yard in Westminister, for the encouragement of Towzer and Heraclitus, to proceed till they obtain the like exaltment.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63245</idno>
+            <idno type="STC">Wing T2282</idno>
+            <idno type="STC">ESTC R2656</idno>
+            <idno type="EEBO-CITATION">11950430</idno>
+            <idno type="OCLC">ocm 11950430</idno>
+            <idno type="VID">51399</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63245)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51399)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 519:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Trincalo sainted, or, The exaltation of the Jesuits implement, and printer general, the notorious Nathaniel Thomson, on this present 5th of July, 1682 the day of his being registred among the Popish saints, for his meritorious libel, concerning the murther of Sir EB.G. and magnificently and numerously attended, to his enthroning in the pillory, for that purpose erected in the Pallace-Yard in Westminister, for the encouragement of Towzer and Heraclitus, to proceed till they obtain the like exaltment.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.B.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>The knight of the wooden ruffs exaltation, sung to a delicate Tory tune, by the Manks Lady his wife: p. 4.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thompson, Nathaniel, d. 1687.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:51399:1"/>
+            <pb n="1" facs="tcp:51399:1" rendition="simple:additions"/>
+            <head>Trincalo Sainted; OR THE EXALTATION Of the <hi>Jeſuits</hi> Implement, and Printer <hi>General,</hi> The NOTORIOUS Nathaniel Thomſon, On this preſent 5th of <hi>July,</hi> 1682.</head>
+            <argument>
+               <p>The day of his being Regiſtred among the <hi>Popiſh</hi> Saints, for his Meritoriòus Libel, Concerning the Murther of Sir <hi>EB. G.</hi> and Magnificently and Numerouſly attended, to his Enthroning in the <hi>Pillory,</hi> for that purpoſe Erected in the Pallace-Yard in <hi>Weſtminſter,</hi> for the Encourage<g ref="char:EOLhyphen"/>ment of <hi>Towzer</hi> and <hi>Heraclitus,</hi> to proceed till they obtain the like Exaltment.</p>
+            </argument>
+            <p>WHO would ever have believed, once upon a time, that this poor Printer <hi>Nat. Thomſon,</hi> that, went up and down Town to beg Work to Buy his <hi>Manks</hi> Lady Porridg, ſhould grow to that Pride, Riches, Impudence, and Ly<g ref="char:EOLhyphen"/>ing, as to arrive at this Exaltation to the Pillory, and to become a <hi>Popiſh</hi> Saint in the rank of St. <hi>Celliers,</hi> his great Patroneſs and Example: But alas! who knows his Fortune, to day a Villain, to morrow a Saint. I find it was beyond the Capacity of <hi>Gadbury,</hi> himſelf to find out this mans Fortune, whoſe three penny Stars nevr foreſhew'd ſo great Preferment. But what Atchievements has this Hector performed for the Cauſe! How bravely has he behaved himſelf forth with might and
+<pb n="2" facs="tcp:51399:2" rendition="simple:additions"/>main to gain this Exaltation! This is he who has privately Printed whole Cart-Loads of Popiſh Maſs-Books, and other prohibited Papiſtical Doctrines, ſpreading them to impoyſon the Nation. This is he who pri<g ref="char:EOLhyphen"/>vately Printed the Appeal, and other pernicious Libells againſt the Go<g ref="char:EOLhyphen"/>vernment. This is he who publiquely Printed innumerable Scurrilous Songs and Ballads, lewd and Scandalous Libells againſt many perſons of great Quality and known Loyalty, dayly ſpawning them to abuſe the Loyal Subjects, to corrupt the Ignorant, and to encourage the Miſchievous. This is <hi>Trincalo</hi> the <hi>Jackcal</hi> to <hi>Towzer,</hi> who uſed to lead the way like a Treble in his <hi>Loyal Intelligence,</hi> whilſt <hi>Towzer</hi> with a full mouth'd Baſe, in his <hi>Obſervations</hi> hunted the <hi>Proteſtant</hi> Puſs, to make the <hi>Papiſts</hi> ſport, and to ſhew the <hi>Tories</hi> game. This is the Loyal lying Knight of the Poſt, who is now exalted to be the Knight of the Wooden Ruff, which he had long ſince deſerved. But of all thoſe petty Atchivements, of Lying In<g ref="char:EOLhyphen"/>telligences, Appeals, abuſive Songs, falſe Advertiſements, Popiſh Ballads, Treaſonable Pamphlets, Jeſuitical Catachiſms, and ſuch like, of which the ſingle Ey'd <hi>Obſervator</hi> took no notice at all, nothing was ſo merito<g ref="char:EOLhyphen"/>rious to him as to gain him this Preferment of <hi>Saint</hi> and Pillory <hi>Martyr,</hi> as his notorious Letters to Mr. <hi>Miles Prance,</hi> to prove Sir <hi>EB. G. ſelo de ſe:</hi> wherein <hi>He,</hi> and his two Secretaries <hi>Pain</hi> and <hi>Farwell,</hi> moſt Impu<g ref="char:EOLhyphen"/>dently, Scandallouſly, and Malitiouſly, by <hi>Jeſuitical</hi> and <hi>Diabolical</hi> In<g ref="char:EOLhyphen"/>ſtigation, endeavoured to wrong the pious memory of the Dead, and to Scandalize and Impeach the Juſtice of the Nation, to beſpatter and make Perjur'd the Kings Evidence, and to render the <hi>Proteſtants</hi> of this Kingdom rediculous to all Nations; to diſanul and overthrow the belief of any <hi>Popiſh Plot,</hi> (the main end and deſign) againſt ſo many Royal Proclamations, ſo many Declarations and Votes of ſeveral <hi>Parliaments,</hi> and againſt the mind, acknowledgment, and belief of ſo many Miniſters of State and Juſtice concerned in the proof of it; this is the high and me<g ref="char:EOLhyphen"/>ritorious Act, that has got our famous Impudent, Brazen-forheaded Prin<g ref="char:EOLhyphen"/>ter a Name, and brought him to his deſerved Preferment. Alas! He that burnt the famous Temple of <hi>Diana</hi> at <hi>Epheſus</hi> to get him a Name, was a Fool to this man: who has made himſelf famous or rather infamous to all poſterity, and got Money and <hi>Saintſhip</hi> to Boot. But what did this bold <hi>Nat</hi> think, and thoſe who ſet him on work, to affront and ar<g ref="char:EOLhyphen"/>raign Juſtice, to have thus brought the Lives of ſeveral Perſons in danger, to have made the Popiſh Plot an Invention, and thoſe who ſuffered for it Innocent, after ſuch undeniable proofs againſt them? I ſay, did they think or believe that the Eyes of Juſtice had been out? and that the whole Nation were blind, that they ſhould ſo much as hope to carry on this ſo unlikely project? The God of this World had hood-wink'd this Barking <hi>Trincalo:</hi> He could ſee nothing but <hi>Mammon,</hi> and the Golden ſhower that fell into his Pockets, and the Devil had taken away his Rea<g ref="char:EOLhyphen"/>ſon, and the underſtanding of his Maſters, who had ſet him on work.
+<pb n="3" facs="tcp:51399:2"/>Perhaps he thought he could not go amiſs under the tuition of the Guide to the ſuferior Clergy; and that having eſcap'd ſo many horrid Villanies, he durſt now attempt the greateſt that ever was known, arming himſelf like the Giants of Old, and aſſaulting Heaven it ſelf. But the Devil and the <hi>Obſervator</hi> have forſook him at laſt, left him to the mercy of a City Jury, and to the juſt puniſhment of the Law. Alas! he thought they were all <hi>Ignoramuſſes,</hi> and that they knew not how to write <hi>Billa vera;</hi> but it ſeems he was miſtaken. But is mighty <hi>Nat</hi>'s Boaſtings, to prove that Sir <hi>E. B. G.</hi> murther'd himſelf by Sixty Witneſſes come to this, that thoſe very men he brought ſhould be Evidence againſt him, and ſhould openly confeſs, that they believed in their Conſciences, that he was trayterouſly murther'd, firſt ſtrangl'd, and then run through? Thus they who lay a Snare, and dig a Pit for others fall into it themſelves. Are the great Deſigns of the Papiſtical <hi>Tories</hi> dwindl'd away to nothing? Is the mighty and impudent Champion laid on his back? But you are deceived, he ſtill keeps his face of Braſs; and tho' convict of horrid Crimes, he openly and impudently avows, he had done nothing for which he ſhould be aſhamed to ſhew his Face. Oh brave <hi>Nat!</hi> Oh un<g ref="char:EOLhyphen"/>parallel'd Impudence! now the World will ſee that ſhameleſs Face, that graceleſs Viſage, looking thorow a wooden Port-hole, with an Helmet on its Head, to ſtand the Tempeſt of Turnips, Apples, and rotten Eggs. The Day of this Exaltation has been long look'd for, and it is come at laſt. What will they now do for another Printer, to Midwife the Popiſh treaſonable Brats into the World? How diſappointed will the under<g ref="char:EOLhyphen"/>mining <hi>Jeſuites</hi> be for the want of their Implement, to infect the ſilly Vul<g ref="char:EOLhyphen"/>ger with their wicked Pamphlets? What Lamentation and hanging down the Head will there be among the Fraternity in <hi>Newgate,</hi> and elſewhere? How will Dame <hi>Celliers</hi> rejoyce to have a Fellow <hi>Saint,</hi> that has bravely withſtood the Battery of Dirt and Stones for the Cauſe, and arrived to the Honor of the Calender? But what will his Friend and Crony the <hi>Ob<g ref="char:EOLhyphen"/>ſervator</hi> ſay, and obſerve upon all this? Does not he think his Turn may come, and that he may arrive at laſt through his great pains to the like Exaltation. Well, impudent <hi>Nat.</hi> thou haſt obtained thy long merited Glory, and now thou wilt be moſt juſtly rewarded with the Order of the Wooden Ruff, and with the Honor of being a Popiſh <hi>Saint</hi> and <hi>Sufferer.</hi> This may comfort thy Heart, and the Cockles of thy Bawling Spouſe, who having printed many a Ditty, cannot but be well pleaſed at her Lord's Exaltation; and to encourage thee, and in honour of the Holy-day of thy Exaltation, ſuppoſe ſome Popiſh Dogeril Poet has taken the pains to write a Stanza or two for thy Dame, ſhe with her wide Throat and old croaking Voice, ſings thus to her Beloved <hi>Nat.</hi>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="4" facs="tcp:51399:3"/>
+            <head>
+               <hi>The</hi> Knight <hi>of the</hi> Wooden Ruffs <hi>Exaltation,</hi> 
+            </head>
+            <opener>Sung to a delicate <hi>Tory</hi> Tune, by the <hi>Manks</hi> Lady his Wife.</opener>
+            <lg n="1">
+               <head>1.</head>
+               <l>COme ſtand to thy Tackle <hi>Nat,</hi>
+               </l>
+               <l>Let thy bonny ſweet Face be ſeen,</l>
+               <l>I ſcorn to lend thee an Hat</l>
+               <l>Thy Brazen Face to skreen.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Thou need'ſt not an Iron Cap,</l>
+               <l>To keep off Stone or Dirt,</l>
+               <l>For tho' they ſhould give thee a Rap,</l>
+               <l>Thy Horns will keep thee from Hurt.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>Then hold forth thy impudent Face:</l>
+               <l>For't muſt be a delicate Sight,</l>
+               <l>To ſee't peep through a Wooden Caſe:</l>
+               <l>For now thou art dubb'd a Knight.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>Unleſs hung at the Triple Tree</l>
+               <l>What could we wiſh for more?</l>
+               <l>A Lady I now ſhall be,</l>
+               <l>Whatever I was before.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>A Villain I have thee known,</l>
+               <l>Such as Pen could ſcarcely paint;</l>
+               <l>But now my dear <hi>Nat.</hi> is grown</l>
+               <l>On a ſuddain a damnable Saint.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>Hold forth then thy graceleſs Snout,</l>
+               <l>Which never had yet Shame in't,</l>
+               <l>And leſt of it any ſhould doubt,</l>
+               <l>Thou haſt told the World ſo in Print.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>Now thou art exalted high,</l>
+               <l>The <hi>Whigs,</hi> tho' below, thee do ſee;</l>
+               <l>Then like a true <hi>Tory</hi> Cry,</l>
+               <l>
+                  <hi>Now hey Boys up go we.</hi>
+               </l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>Who ſerves Jeſuite, Prieſt or Pope,</l>
+               <l>Shall thus advanced be</l>
+               <l>With Pillory, Whip, or Rope,</l>
+               <l>Thus <hi>Hey Boys up go we.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. B.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
